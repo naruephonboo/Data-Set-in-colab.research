@@ -1,0 +1,7 @@
+echo "# Data-Set-in-colab.research" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/naruephonboo/Data-Set-in-colab.research.git
+git push -u origin main
